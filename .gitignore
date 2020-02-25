@@ -1,0 +1,13 @@
+*/.settings
+/target/
+*.prefs
+.factorypath
+.springBeans
+.classpath
+.project
+/.metadata/
+*.iml
+*.idea
+*rebel*
+.mvn
+log
